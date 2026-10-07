@@ -1,0 +1,17 @@
+# .NET Core
+[B|b]in/
+[O|o]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de publicación
+Publish/
+publish/
+
+# Otros archivos temporales
+*.log
+*.cache
